@@ -1,0 +1,30 @@
+Texts size 100 MB 
+PARALLEL v1: Speedup : 1.47307
+PARALLEL v2: Speedup : 1.49137
+PARALLEL v3: Speedup : 1.5046
+
+Texts size 200 MB 
+PARALLEL v1: Speedup : 1.36559
+PARALLEL v2: Speedup : 1.41348
+PARALLEL v3: Speedup : 1.44772
+
+Texts size 400 MB 
+PARALLEL v1: Speedup : 1.41474
+PARALLEL v2: Speedup : 1.35578
+PARALLEL v3: Speedup : 1.4204
+
+Texts size 600 MB 
+PARALLEL v1: Speedup : 1.38043
+PARALLEL v2: Speedup : 1.27092
+PARALLEL v3: Speedup : 1.35432
+
+Texts size 800 MB 
+PARALLEL v1: Speedup : 1.25362
+PARALLEL v2: Speedup : 1.12397
+PARALLEL v3: Speedup : 1.2086
+
+Texts size 1000 MB 
+PARALLEL v1: Speedup : 1.20246
+PARALLEL v2: Speedup : 1.07148
+PARALLEL v3: Speedup : 1.16652
+

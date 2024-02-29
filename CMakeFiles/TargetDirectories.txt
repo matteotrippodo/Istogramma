@@ -1,0 +1,3 @@
+C:/Users/matte/Desktop/Parallel Computing/Istogramma/CMakeFiles/Istogramma.dir
+C:/Users/matte/Desktop/Parallel Computing/Istogramma/CMakeFiles/ALL_BUILD.dir
+C:/Users/matte/Desktop/Parallel Computing/Istogramma/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,12 @@
+# ninja log v5
+3738	4576	7308578027334018	Istogramma.exe	c46ee6c001c776e7
+9	441	7309244995397739	build.ninja	59df46f68a6f274c
+4	3738	7308578019009285	CMakeFiles/Istogramma.dir/main.cpp.obj	49b8a736beb7b62d
+4	3877	7309246021678210	CMakeFiles/Istogramma.dir/main.cpp.obj	49b8a736beb7b62d
+3877	4625	7309246029089559	Istogramma.exe	c46ee6c001c776e7
+5	2476	7309292710570619	CMakeFiles/Istogramma.dir/main.cpp.obj	49b8a736beb7b62d
+2476	2997	7309292715702998	Istogramma.exe	c46ee6c001c776e7
+5	2876	7309294680283559	CMakeFiles/Istogramma.dir/main.cpp.obj	49b8a736beb7b62d
+2877	3535	7309294686790161	Istogramma.exe	c46ee6c001c776e7
+3	2495	7309296184655462	CMakeFiles/Istogramma.dir/main.cpp.obj	49b8a736beb7b62d
+2496	3015	7309296189769978	Istogramma.exe	c46ee6c001c776e7
