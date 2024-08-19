@@ -14,24 +14,6 @@
 # EXTERNAL cache entries
 ########################
 
-//The directory containing a CMake configuration file for Boost.
-Boost_DIR:PATH=Boost_DIR-NOTFOUND
-
-//Boost filesystem library (debug)
-Boost_FILESYSTEM_LIBRARY_DEBUG:FILEPATH=Boost_FILESYSTEM_LIBRARY_DEBUG-NOTFOUND
-
-//Boost filesystem library (release)
-Boost_FILESYSTEM_LIBRARY_RELEASE:FILEPATH=Boost_FILESYSTEM_LIBRARY_RELEASE-NOTFOUND
-
-//Path to a file.
-Boost_INCLUDE_DIR:PATH=C:/boost_1_84_0
-
-//Boost program_options library (debug)
-Boost_PROGRAM_OPTIONS_LIBRARY_DEBUG:FILEPATH=Boost_PROGRAM_OPTIONS_LIBRARY_DEBUG-NOTFOUND
-
-//Boost program_options library (release)
-Boost_PROGRAM_OPTIONS_LIBRARY_RELEASE:FILEPATH=Boost_PROGRAM_OPTIONS_LIBRARY_RELEASE-NOTFOUND
-
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/addr2line.exe
 
@@ -274,18 +256,6 @@ Istogramma_SOURCE_DIR:STATIC=C:/Users/matte/Desktop/Parallel Computing/Istogramm
 # INTERNAL cache entries
 ########################
 
-//ADVANCED property for variable: Boost_DIR
-Boost_DIR-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: Boost_FILESYSTEM_LIBRARY_DEBUG
-Boost_FILESYSTEM_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: Boost_FILESYSTEM_LIBRARY_RELEASE
-Boost_FILESYSTEM_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: Boost_INCLUDE_DIR
-Boost_INCLUDE_DIR-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: Boost_PROGRAM_OPTIONS_LIBRARY_DEBUG
-Boost_PROGRAM_OPTIONS_LIBRARY_DEBUG-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: Boost_PROGRAM_OPTIONS_LIBRARY_RELEASE
-Boost_PROGRAM_OPTIONS_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_ADDR2LINE
 CMAKE_ADDR2LINE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_AR
@@ -295,9 +265,9 @@ CMAKE_CACHEFILE_DIR:INTERNAL=c:/Users/matte/Desktop/Parallel Computing/Istogramm
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
-CMAKE_CACHE_MINOR_VERSION:INTERNAL=27
+CMAKE_CACHE_MINOR_VERSION:INTERNAL=29
 //Patch version of cmake used to create the current loaded cache
-CMAKE_CACHE_PATCH_VERSION:INTERNAL=8
+CMAKE_CACHE_PATCH_VERSION:INTERNAL=6
 //Path to CMake executable.
 CMAKE_COMMAND:INTERNAL=C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/bin/cmake.exe
 //Path to cpack program executable.
@@ -409,7 +379,7 @@ CMAKE_RC_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_READELF
 CMAKE_READELF-ADVANCED:INTERNAL=1
 //Path to CMake installation.
-CMAKE_ROOT:INTERNAL=C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27
+CMAKE_ROOT:INTERNAL=C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.29
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS
 CMAKE_SHARED_LINKER_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS_DEBUG
@@ -440,16 +410,6 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_TAPI-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
-//Details about finding Boost
-FIND_PACKAGE_MESSAGE_DETAILS_Boost:INTERNAL=[C:/boost_1_84_0][c ][v1.84.0()]
-//Components requested for this build tree.
-_Boost_COMPONENTS_SEARCHED:INTERNAL=
-//Last used Boost_INCLUDE_DIR value.
-_Boost_INCLUDE_DIR_LAST:INTERNAL=C:/boost_1_84_0
-//Last used Boost_NAMESPACE value.
-_Boost_NAMESPACE_LAST:INTERNAL=boost
-//Last used Boost_USE_MULTITHREADED value.
-_Boost_USE_MULTITHREADED_LAST:INTERNAL=TRUE
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 
